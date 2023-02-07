@@ -4,6 +4,8 @@
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itamardenkberg&theme=gotham)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itamardenkberg&theme=tokyonight_duo&background=0C1014)](https://git.io/streak-stats)
+
 ![Followers](https://img.shields.io/github/followers/itamardenkberg?color=lightgray&style=flat)
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=itamardenkberg.itamardenkberg)
 ![Years Badge](https://badges.pufler.dev/years/itamardenkberg)
